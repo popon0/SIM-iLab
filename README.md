@@ -2,6 +2,10 @@
 
 SIM-iLab is a web application for laboratory inventory management. It is built using the Laravel framework to provide an efficient and user-friendly solution for tracking item conditions, managing item borrowing, and facilitating item returns.
 
+![screencapture](./sim-ilab.png)
+Dashboard Screencapture
+
+
 ## Installation
 
 To get started with SIM-iLab, follow the steps below:
@@ -36,5 +40,14 @@ SIM-iLab includes different user levels with their respective credentials:
 - Password: 12345
 
 You can use these credentials to log in and explore the SIM-iLab application.
+
+## Member
+**Kelompok 7**
+- Teuku Hafiez Ramadhan
+- Bayu Mushaffan
+- Iswandi
+- David Pratama
+- Teuku Sony Fasha
+
 
 
